@@ -7,9 +7,9 @@ export const user = [
   },
   {
     id: 2,
-    name: 'Karishma Jain',
-    age: 18,
-    email: 'karishmak@gmail.com',
+    name: 'Karen Gomes',
+    age: 21,
+    email: 'karen@gmail.com',
   },
   {
     id: 3,
